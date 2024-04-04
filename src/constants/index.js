@@ -91,6 +91,7 @@ const experiences = [
             "Develop and maintain the quality of the club.",
             "Host conferences",
             "Give the Introductory Presentation",
+
         ],
     },
     {
