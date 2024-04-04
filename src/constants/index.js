@@ -73,6 +73,7 @@ const technologies = [
         name: "Java",
         icon: Java,
     },
+
     {
         name: "C++",
         icon: Cplusplus,
